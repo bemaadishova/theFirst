@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="register">Register</string>
+    <string name="trivia">Trivia</string>
+    <string name="next">NEXT</string>
+</resources>
